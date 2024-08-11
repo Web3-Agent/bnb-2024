@@ -1,0 +1,220 @@
+{
+  "service": [
+    {
+      "title": "Simplified Blockchain Interactions",
+      "desc": "Our abstracted connector API makes it easier than ever to interact with blockchain networks. ",
+      "icon": "edit",
+      "delay": 100
+    },
+    {
+      "title": "Multi-Chain Deployment",
+      "desc": "Interacts with multiple blockchain environments, not limited to a specific chain.",
+      "icon": "link",
+      "delay": 100
+    },
+    {
+      "title": "Connect Seamlessly to DeFi",
+      "desc": "Access and connect to all DeFi capabilities using a single API that works across both EVM and non-EVM platforms.",
+      "icon": "command",
+      "delay": 200
+    },
+    {
+      "title": "Developer Tools",
+      "desc": "Offer developer tools simplify the process of building applications that interact with smart contracts.",
+      "icon": "code",
+      "delay": 100
+    },
+    {
+      "title": "Event Monitoring",
+      "desc": "Smart contracts often emit events based on certain conditions being met and provides features to monitor these events",
+      "icon": "search",
+      "delay": 100
+    },
+    {
+      "title": "Transaction Management",
+      "desc": "Manages transactions related to smart contract interactions, including transaction signing and transaction monitoring.",
+      "icon": "database",
+      "delay": 200
+    }
+  ],
+  "timeline": [
+    {
+      "title": "1.Select template",
+      "desc": "Easily Select Templates for Website Content."
+    },
+    {
+      "title": "2.Describe topic",
+      "desc": "All Feature available features in Essentials."
+    },
+    {
+      "title": "3.Generate content",
+      "desc": "Popular Feature available features in Essentials."
+    }
+  ],
+  "pricing": [
+    {
+      "title": "Basic",
+      "price": 0,
+      "text": "",
+      "subTitle": "Forever",
+      "isActive": false,
+      "subItem": [
+        {
+          "text": "7,700 Words",
+          "isMinus": false
+        },
+        {
+          "text": "6+ Templates",
+          "isMinus": false
+        },
+        {
+          "text": "5+ Languages",
+          "isMinus": false
+        },
+        {
+          "text": "AI Blog generate",
+          "isMinus": true
+        },
+        {
+          "text": "Advance Editor Tool",
+          "isMinus": true
+        },
+        {
+          "text": "Consistent support",
+          "isMinus": true
+        }
+      ]
+    },
+    {
+      "title": "Business",
+      "price": 50,
+      "text": "",
+      "subTitle": "USD Per Month",
+      "isActive": true,
+      "subItem": [
+        {
+          "text": "80,000 Words",
+          "isMinus": false
+        },
+        {
+          "text": "6+ Templates",
+          "isMinus": false
+        },
+        {
+          "text": "5+ Languages",
+          "isMinus": false
+        },
+        {
+          "text": "AI Blog generate",
+          "isMinus": false
+        },
+        {
+          "text": "Advance Editor Tool",
+          "isMinus": false
+        },
+        {
+          "text": "Consistent support",
+          "isMinus": false
+        }
+      ]
+    },
+    {
+      "title": "Advanced",
+      "price": 100,
+      "text": "",
+      "subTitle": "USD Per Month",
+      "isActive": false,
+      "subItem": [
+        {
+          "text": "100,000 Words",
+          "isMinus": false
+        },
+        {
+          "text": "6+ Templates",
+          "isMinus": false
+        },
+        {
+          "text": "5+ Languages",
+          "isMinus": false
+        },
+        {
+          "text": "AI Blog generate",
+          "isMinus": false
+        },
+        {
+          "text": "Advance Editor Tool",
+          "isMinus": false
+        },
+        {
+          "text": "Consistent support",
+          "isMinus": false
+        }
+      ]
+    },
+    {
+      "title": "Enterprise",
+      "price": 40,
+      "text": "Let's Talk",
+      "subTitle": "Forever",
+      "isActive": false,
+      "subItem": [
+        {
+          "text": "3,580,000 Words",
+          "isMinus": false
+        },
+        {
+          "text": "16+ Templates",
+          "isMinus": false
+        },
+        {
+          "text": "8+ Languages",
+          "isMinus": false
+        },
+        {
+          "text": "AI Blog generate",
+          "isMinus": false
+        },
+        {
+          "text": "Advance Editor Tool",
+          "isMinus": false
+        },
+        {
+          "text": "Consistent support",
+          "isMinus": false
+        }
+      ]
+    }
+  ],
+  "accordion": [
+    {
+      "title": "What is ChatenAI ? How does it work?",
+      "desc": "ChatenAI is an AI-powered messaging platform that understands and responds to your natural language queries. Ask anything you'd typically ask a human assistant—get weather updates, news, restaurant recommendations, and more!",
+      "isExpand": true
+    },
+    {
+      "title": "What kind of questions can I ask ChatenAI?",
+      "desc": "ChatenAI, an AI-driven messaging platform, adeptly communicates with users using natural language understanding. It delivers helpful responses to your inquiries and requests.",
+      "isExpand": false
+    },
+    {
+      "title": "Can I get update regularly and For how long do I get updates?",
+      "desc": "Yes, We will get update the ChatenAI. And you can get it any time. Next time we will comes with more feature. You can be get update for unlimited times. Our dedicated team works for update.",
+      "isExpand": false
+    },
+    {
+      "title": "How can I get the customer support?",
+      "desc": "After purchasing the product need you any support you can be share with us with sending mail to rainbowit10@gmail.com.",
+      "isExpand": false
+    },
+    {
+      "title": "HIs my data safe with ChatenAI?",
+      "desc": "Feel free to toss any questions at chatenAI, just like you would with a human helper—whether it's about the weather, the latest news, restaurant suggestions, or anything else you fancy!",
+      "isExpand": false
+    },
+    {
+      "title": "Is ChatenAI available in multiple languages?",
+      "desc": "Yes, ChatenAI is designed to support multiple languages, offering a versatile and inclusive communication experience for users worldwide.",
+      "isExpand": false
+    }
+  ]
+}

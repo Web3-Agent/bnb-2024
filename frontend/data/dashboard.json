@@ -1,0 +1,1359 @@
+{
+  "chatExport": [
+    {
+      "img": "/images/generator-icon/photo.png",
+      "title": "Image Generator",
+      "badge": 25,
+      "isChecked": false
+    },
+    {
+      "img": "/images/generator-icon/video-camera.png",
+      "title": "Vedio Generator",
+      "badge": 56,
+      "isChecked": true
+    },
+    {
+      "img": "/images/generator-icon/photo-editor.png",
+      "title": "Photo Editor",
+      "badge": 48,
+      "isChecked": false
+    },
+    {
+      "img": "/images/generator-icon/text-voice.png",
+      "title": "Text to voice",
+      "badge": 125,
+      "isChecked": true
+    },
+    {
+      "img": "/images/generator-icon/code-editor.png",
+      "title": "Code Generator",
+      "badge": 167,
+      "isChecked": false
+    },
+    {
+      "img": "/images/generator-icon/voice.png",
+      "title": "Speech to text",
+      "badge": 79,
+      "isChecked": false
+    }
+  ],
+  "sessions": [
+    {
+      "img": "/images/sign-up/firefox.png",
+      "title": "Firefox on Macbook Pro",
+      "desc": "222.225.225.222",
+      "date": "Signed in JAN 05, 2024"
+    },
+    {
+      "img": "/images/sign-up/firefox.png",
+      "title": "Firefox on IPhone 15",
+      "desc": "222.225.225.222",
+      "date": "Signed in JAN 05, 2024"
+    },
+    {
+      "img": "/images/sign-up/chrome.png",
+      "title": "Chorome on Macbook Pro",
+      "desc": "222.225.225.222",
+      "date": "Signed in JAN 05, 2024"
+    },
+    {
+      "img": "/images/sign-up/chrome.png",
+      "title": "Chorome on IPhone X Pro",
+      "desc": "222.225.225.222",
+      "date": "Signed in JAN 05, 2024"
+    }
+  ],
+  "applications": [
+    {
+      "img": "/images/icons/letter-m.png",
+      "title": "Midjourney",
+      "version": "version 3.3"
+    },
+    {
+      "img": "/images/icons/vk.png",
+      "title": "Vikings",
+      "version": "version 3.3"
+    },
+    {
+      "img": "/images/icons/chat-gpt.png",
+      "title": "ChatGPT",
+      "version": "version 3.3"
+    },
+    {
+      "img": "/images/icons/figma.png",
+      "title": "Figma",
+      "version": "version 4.3"
+    },
+    {
+      "img": "/images/icons/photoshop.png",
+      "title": "Photoshop",
+      "version": "version 2.3"
+    },
+    {
+      "img": "/images/icons/letter-m.png",
+      "title": "Midjourney",
+      "version": "version 3.3"
+    },
+    {
+      "img": "/images/icons/vk.png",
+      "title": "Vikings",
+      "version": "version 3.3"
+    }
+  ],
+  "releaseNote": [
+    {
+      "date": "22 October 2024",
+      "text": "",
+      "issue": "Issues Fixing",
+      "version": "1.5.0",
+      "content": [
+        {
+          "status": "fixed",
+          "text": "Portfolio Single Page translate the date"
+        },
+        {
+          "status": "update",
+          "text": "Advanced Custom Fields PRO Plugin"
+        },
+        {
+          "status": "fixed",
+          "text": "ChatenAI Core"
+        },
+        {
+          "status": "improve",
+          "text": "Added Visit Site Button Target Options"
+        }
+      ]
+    },
+    {
+      "date": "24 March 2024",
+      "text": "",
+      "issue": "Issues Fixing",
+      "version": "1.2.0",
+      "content": [
+        {
+          "status": "fixed",
+          "text": "Deprecations Issues"
+        },
+        {
+          "status": "fixed",
+          "text": "Team Addons Issues"
+        },
+        {
+          "status": "fixed",
+          "text": "Agency Banner Issues"
+        },
+        {
+          "status": "fixed",
+          "text": "Typography Issues"
+        },
+        {
+          "status": "fixed",
+          "text": "Color Issues"
+        },
+        {
+          "status": "update",
+          "text": "Advanced Custom Fields PRO Plugin"
+        },
+        {
+          "status": "update",
+          "text": "ChatenAI Core"
+        },
+        {
+          "status": "improve",
+          "text": "Page Speed"
+        }
+      ]
+    },
+    {
+      "date": "12 January 2024",
+      "text": "",
+      "issue": "Issues Fixing",
+      "version": "1.1.2",
+      "content": [
+        {
+          "status": "fixed",
+          "text": "Team email issues"
+        },
+        {
+          "status": "update",
+          "text": "ACF Pro Plugin"
+        }
+      ]
+    },
+    {
+      "date": "19 june 2024",
+      "text": "",
+      "issue": "Issues Fixing",
+      "version": "1.1.1",
+      "content": [
+        {
+          "status": "fixed",
+          "text": "Lightbox popup style issues fixing"
+        },
+        {
+          "status": "fixed",
+          "text": "Portfolio clickable issues fixing"
+        }
+      ]
+    },
+    {
+      "date": "16 February 2024",
+      "text": "Added",
+      "issue": "Issues Fixing",
+      "version": "1.1.0",
+      "content": [
+        {
+          "status": "new",
+          "text": "WooCommerce"
+        },
+        {
+          "status": "new",
+          "text": "Light/Dark Mode Switcher for All Demos"
+        },
+        {
+          "status": "fixed",
+          "text": "Demo Import Issues"
+        },
+        {
+          "status": "fixed",
+          "text": "Pricing Table Color Issues"
+        },
+        {
+          "status": "fixed",
+          "text": "Infobox Color Issues"
+        },
+        {
+          "status": "fixed",
+          "text": "Footer Menu Spacing Issus"
+        },
+        {
+          "status": "fixed",
+          "text": "Header Social Network and Button Color Issues"
+        },
+        {
+          "status": "fixed",
+          "text": "Theme Gradient Issue On Safari"
+        },
+        {
+          "status": "fixed",
+          "text": "Theme Options Layout Broken Issues"
+        }
+      ]
+    },
+    {
+      "date": "04 January 2024",
+      "text": "",
+      "issue": "Issues Fixing",
+      "version": "1.0.5",
+      "content": [
+        {
+          "status": "fixed",
+          "text": "Portfolio single page issues"
+        }
+      ]
+    },
+    {
+      "date": "10 November 2024",
+      "text": "",
+      "issue": "Issues Fixing",
+      "version": "1.0.4",
+      "content": [
+        {
+          "status": "fixed",
+          "text": "Portfolio single page issues"
+        },
+        {
+          "status": "fixed",
+          "text": "Contact form checkbox issues"
+        },
+        {
+          "status": "fixed",
+          "text": "Contact form radio button issues"
+        },
+        {
+          "status": "fixed",
+          "text": "Contact form acceptance issues"
+        },
+        {
+          "status": "fixed",
+          "text": "Contact form dropdown issues"
+        }
+      ]
+    },
+    {
+      "date": "02 November 2024",
+      "text": "",
+      "issue": "Issues Fixing",
+      "version": "1.0.3",
+      "content": [
+        {
+          "status": "fixed",
+          "text": "Page title issues with SEO plugins"
+        }
+      ]
+    },
+    {
+      "date": "17 October 2024",
+      "text": "",
+      "issue": "Issues Fixing",
+      "version": "1.0.2",
+      "content": [
+        {
+          "status": "fixed",
+          "text": "Global Typography Issues"
+        }
+      ]
+    },
+    {
+      "date": "10 October 2024",
+      "text": "",
+      "issue": "Issues Fixing",
+      "version": "1.0.1",
+      "content": [
+        {
+          "status": "fixed",
+          "text": "One page scroling issues"
+        },
+        {
+          "status": "fixed",
+          "text": "Portfolio date format changing issues"
+        },
+        {
+          "status": "fixed",
+          "text": "Some responsive css issues"
+        }
+      ]
+    },
+    {
+      "date": "3 October 2024",
+      "text": "",
+      "issue": "Issues Fixing",
+      "version": "1.0.0",
+      "content": [
+        {
+          "status": "new",
+          "text": "Theme release"
+        }
+      ]
+    }
+  ],
+  "rightPanel": [
+    {
+      "today": [
+        {
+          "title": "ChatenAI Defination",
+          "isActive": true,
+          "list": [
+            {
+              "icon": "refresh-cw",
+              "text": "Regenerate"
+            },
+            {
+              "icon": "tag",
+              "text": "Pin Chat"
+            },
+            {
+              "icon": "file-text",
+              "text": "Rename"
+            },
+            {
+              "icon": "share-2",
+              "text": "Share"
+            },
+            {
+              "icon": "trash-2",
+              "text": "Delete Chat"
+            }
+          ]
+        },
+        {
+          "title": "Your last Question",
+          "isActive": false,
+          "list": [
+            {
+              "icon": "refresh-cw",
+              "text": "Regenerate"
+            },
+            {
+              "icon": "tag",
+              "text": "Pin Chat"
+            },
+            {
+              "icon": "file-text",
+              "text": "Rename"
+            },
+            {
+              "icon": "share-2",
+              "text": "Share"
+            },
+            {
+              "icon": "trash-2",
+              "text": "Delete Chat"
+            }
+          ]
+        },
+        {
+          "title": "Business Shortcurt Methode",
+          "list": [
+            {
+              "icon": "refresh-cw",
+              "text": "Regenerate"
+            },
+            {
+              "icon": "tag",
+              "text": "Pin Chat"
+            },
+            {
+              "icon": "file-text",
+              "text": "Rename"
+            },
+            {
+              "icon": "share-2",
+              "text": "Share"
+            },
+            {
+              "icon": "trash-2",
+              "text": "Delete Chat"
+            }
+          ]
+        },
+        {
+          "title": "Best way to maintain code Quality",
+          "list": [
+            {
+              "icon": "refresh-cw",
+              "text": "Regenerate"
+            },
+            {
+              "icon": "tag",
+              "text": "Pin Chat"
+            },
+            {
+              "icon": "file-text",
+              "text": "Rename"
+            },
+            {
+              "icon": "share-2",
+              "text": "Share"
+            },
+            {
+              "icon": "trash-2",
+              "text": "Delete Chat"
+            }
+          ]
+        }
+      ],
+      "yesterday": [
+        {
+          "title": "How to write a code",
+          "list": [
+            {
+              "icon": "refresh-cw",
+              "text": "Regenerate"
+            },
+            {
+              "icon": "tag",
+              "text": "Pin Chat"
+            },
+            {
+              "icon": "file-text",
+              "text": "Rename"
+            },
+            {
+              "icon": "share-2",
+              "text": "Share"
+            },
+            {
+              "icon": "trash-2",
+              "text": "Delete Chat"
+            }
+          ]
+        },
+        {
+          "title": "Form Html CSS JS",
+          "list": [
+            {
+              "icon": "refresh-cw",
+              "text": "Regenerate"
+            },
+            {
+              "icon": "tag",
+              "text": "Pin Chat"
+            },
+            {
+              "icon": "file-text",
+              "text": "Rename"
+            },
+            {
+              "icon": "share-2",
+              "text": "Share"
+            },
+            {
+              "icon": "trash-2",
+              "text": "Delete Chat"
+            }
+          ]
+        },
+        {
+          "title": "HTML Shortcurt Methode",
+          "list": [
+            {
+              "icon": "refresh-cw",
+              "text": "Regenerate"
+            },
+            {
+              "icon": "tag",
+              "text": "Pin Chat"
+            },
+            {
+              "icon": "file-text",
+              "text": "Rename"
+            },
+            {
+              "icon": "share-2",
+              "text": "Share"
+            },
+            {
+              "icon": "trash-2",
+              "text": "Delete Chat"
+            }
+          ]
+        },
+        {
+          "title": "Best way to maintain code Quality",
+          "list": [
+            {
+              "icon": "refresh-cw",
+              "text": "Regenerate"
+            },
+            {
+              "icon": "tag",
+              "text": "Pin Chat"
+            },
+            {
+              "icon": "file-text",
+              "text": "Rename"
+            },
+            {
+              "icon": "share-2",
+              "text": "Share"
+            },
+            {
+              "icon": "trash-2",
+              "text": "Delete Chat"
+            }
+          ]
+        },
+        {
+          "title": "ChatenAI Defination",
+          "list": [
+            {
+              "icon": "refresh-cw",
+              "text": "Regenerate"
+            },
+            {
+              "icon": "tag",
+              "text": "Pin Chat"
+            },
+            {
+              "icon": "file-text",
+              "text": "Rename"
+            },
+            {
+              "icon": "share-2",
+              "text": "Share"
+            },
+            {
+              "icon": "trash-2",
+              "text": "Delete Chat"
+            }
+          ]
+        },
+        {
+          "title": "Your last Question",
+          "list": [
+            {
+              "icon": "refresh-cw",
+              "text": "Regenerate"
+            },
+            {
+              "icon": "tag",
+              "text": "Pin Chat"
+            },
+            {
+              "icon": "file-text",
+              "text": "Rename"
+            },
+            {
+              "icon": "share-2",
+              "text": "Share"
+            },
+            {
+              "icon": "trash-2",
+              "text": "Delete Chat"
+            }
+          ]
+        },
+        {
+          "title": "Unique Shortcurt Methode",
+          "list": [
+            {
+              "icon": "refresh-cw",
+              "text": "Regenerate"
+            },
+            {
+              "icon": "tag",
+              "text": "Pin Chat"
+            },
+            {
+              "icon": "file-text",
+              "text": "Rename"
+            },
+            {
+              "icon": "share-2",
+              "text": "Share"
+            },
+            {
+              "icon": "trash-2",
+              "text": "Delete Chat"
+            }
+          ]
+        },
+        {
+          "title": "Generate a circle Image",
+          "list": [
+            {
+              "icon": "refresh-cw",
+              "text": "Regenerate"
+            },
+            {
+              "icon": "tag",
+              "text": "Pin Chat"
+            },
+            {
+              "icon": "file-text",
+              "text": "Rename"
+            },
+            {
+              "icon": "share-2",
+              "text": "Share"
+            },
+            {
+              "icon": "trash-2",
+              "text": "Delete Chat"
+            }
+          ]
+        }
+      ],
+      "previous": [
+        {
+          "title": "User Assistant Request",
+          "list": [
+            {
+              "icon": "refresh-cw",
+              "text": "Regenerate"
+            },
+            {
+              "icon": "tag",
+              "text": "Pin Chat"
+            },
+            {
+              "icon": "file-text",
+              "text": "Rename"
+            },
+            {
+              "icon": "share-2",
+              "text": "Share"
+            },
+            {
+              "icon": "trash-2",
+              "text": "Delete Chat"
+            }
+          ]
+        },
+        {
+          "title": "Funtion Js",
+          "list": [
+            {
+              "icon": "refresh-cw",
+              "text": "Regenerate"
+            },
+            {
+              "icon": "tag",
+              "text": "Pin Chat"
+            },
+            {
+              "icon": "file-text",
+              "text": "Rename"
+            },
+            {
+              "icon": "share-2",
+              "text": "Share"
+            },
+            {
+              "icon": "trash-2",
+              "text": "Delete Chat"
+            }
+          ]
+        },
+        {
+          "title": "Generate a Image",
+          "list": [
+            {
+              "icon": "refresh-cw",
+              "text": "Regenerate"
+            },
+            {
+              "icon": "tag",
+              "text": "Pin Chat"
+            },
+            {
+              "icon": "file-text",
+              "text": "Rename"
+            },
+            {
+              "icon": "share-2",
+              "text": "Share"
+            },
+            {
+              "icon": "trash-2",
+              "text": "Delete Chat"
+            }
+          ]
+        },
+        {
+          "title": "Best way to maintain code Quality",
+          "list": [
+            {
+              "icon": "refresh-cw",
+              "text": "Regenerate"
+            },
+            {
+              "icon": "tag",
+              "text": "Pin Chat"
+            },
+            {
+              "icon": "file-text",
+              "text": "Rename"
+            },
+            {
+              "icon": "share-2",
+              "text": "Share"
+            },
+            {
+              "icon": "trash-2",
+              "text": "Delete Chat"
+            }
+          ]
+        },
+        {
+          "title": "ChatenAI Defination",
+          "list": [
+            {
+              "icon": "refresh-cw",
+              "text": "Regenerate"
+            },
+            {
+              "icon": "tag",
+              "text": "Pin Chat"
+            },
+            {
+              "icon": "file-text",
+              "text": "Rename"
+            },
+            {
+              "icon": "share-2",
+              "text": "Share"
+            },
+            {
+              "icon": "trash-2",
+              "text": "Delete Chat"
+            }
+          ]
+        },
+        {
+          "title": "Your last Question",
+          "list": [
+            {
+              "icon": "refresh-cw",
+              "text": "Regenerate"
+            },
+            {
+              "icon": "tag",
+              "text": "Pin Chat"
+            },
+            {
+              "icon": "file-text",
+              "text": "Rename"
+            },
+            {
+              "icon": "share-2",
+              "text": "Share"
+            },
+            {
+              "icon": "trash-2",
+              "text": "Delete Chat"
+            }
+          ]
+        },
+        {
+          "title": "Unique Shortcurt Methode",
+          "list": [
+            {
+              "icon": "refresh-cw",
+              "text": "Regenerate"
+            },
+            {
+              "icon": "tag",
+              "text": "Pin Chat"
+            },
+            {
+              "icon": "file-text",
+              "text": "Rename"
+            },
+            {
+              "icon": "share-2",
+              "text": "Share"
+            },
+            {
+              "icon": "trash-2",
+              "text": "Delete Chat"
+            }
+          ]
+        },
+        {
+          "title": "Best way to maintain Remote Team",
+          "list": [
+            {
+              "icon": "refresh-cw",
+              "text": "Regenerate"
+            },
+            {
+              "icon": "tag",
+              "text": "Pin Chat"
+            },
+            {
+              "icon": "file-text",
+              "text": "Rename"
+            },
+            {
+              "icon": "share-2",
+              "text": "Share"
+            },
+            {
+              "icon": "trash-2",
+              "text": "Delete Chat"
+            }
+          ]
+        }
+      ],
+      "older": [
+        {
+          "title": "AI writing: Free Trial",
+          "list": [
+            {
+              "icon": "refresh-cw",
+              "text": "Regenerate"
+            },
+            {
+              "icon": "tag",
+              "text": "Pin Chat"
+            },
+            {
+              "icon": "file-text",
+              "text": "Rename"
+            },
+            {
+              "icon": "share-2",
+              "text": "Share"
+            },
+            {
+              "icon": "trash-2",
+              "text": "Delete Chat"
+            }
+          ]
+        },
+        {
+          "title": "Your last Question",
+          "list": [
+            {
+              "icon": "refresh-cw",
+              "text": "Regenerate"
+            },
+            {
+              "icon": "tag",
+              "text": "Pin Chat"
+            },
+            {
+              "icon": "file-text",
+              "text": "Rename"
+            },
+            {
+              "icon": "share-2",
+              "text": "Share"
+            },
+            {
+              "icon": "trash-2",
+              "text": "Delete Chat"
+            }
+          ]
+        },
+        {
+          "title": "Education Shortcurt Methode",
+          "list": [
+            {
+              "icon": "refresh-cw",
+              "text": "Regenerate"
+            },
+            {
+              "icon": "tag",
+              "text": "Pin Chat"
+            },
+            {
+              "icon": "file-text",
+              "text": "Rename"
+            },
+            {
+              "icon": "share-2",
+              "text": "Share"
+            },
+            {
+              "icon": "trash-2",
+              "text": "Delete Chat"
+            }
+          ]
+        },
+        {
+          "title": "1992 Environment Policy",
+          "list": [
+            {
+              "icon": "refresh-cw",
+              "text": "Regenerate"
+            },
+            {
+              "icon": "tag",
+              "text": "Pin Chat"
+            },
+            {
+              "icon": "file-text",
+              "text": "Rename"
+            },
+            {
+              "icon": "share-2",
+              "text": "Share"
+            },
+            {
+              "icon": "trash-2",
+              "text": "Delete Chat"
+            }
+          ]
+        },
+        {
+          "title": "Senior UX/UI Design",
+          "list": [
+            {
+              "icon": "refresh-cw",
+              "text": "Regenerate"
+            },
+            {
+              "icon": "tag",
+              "text": "Pin Chat"
+            },
+            {
+              "icon": "file-text",
+              "text": "Rename"
+            },
+            {
+              "icon": "share-2",
+              "text": "Share"
+            },
+            {
+              "icon": "trash-2",
+              "text": "Delete Chat"
+            }
+          ]
+        },
+        {
+          "title": "Your last Question",
+          "list": [
+            {
+              "icon": "refresh-cw",
+              "text": "Regenerate"
+            },
+            {
+              "icon": "tag",
+              "text": "Pin Chat"
+            },
+            {
+              "icon": "file-text",
+              "text": "Rename"
+            },
+            {
+              "icon": "share-2",
+              "text": "Share"
+            },
+            {
+              "icon": "trash-2",
+              "text": "Delete Chat"
+            }
+          ]
+        },
+        {
+          "title": "Dark Mode Html CSS JS",
+          "list": [
+            {
+              "icon": "refresh-cw",
+              "text": "Regenerate"
+            },
+            {
+              "icon": "tag",
+              "text": "Pin Chat"
+            },
+            {
+              "icon": "file-text",
+              "text": "Rename"
+            },
+            {
+              "icon": "share-2",
+              "text": "Share"
+            },
+            {
+              "icon": "trash-2",
+              "text": "Delete Chat"
+            }
+          ]
+        },
+        {
+          "title": "Best way to maintain Remote Team",
+          "list": [
+            {
+              "icon": "refresh-cw",
+              "text": "Regenerate"
+            },
+            {
+              "icon": "tag",
+              "text": "Pin Chat"
+            },
+            {
+              "icon": "file-text",
+              "text": "Rename"
+            },
+            {
+              "icon": "share-2",
+              "text": "Share"
+            },
+            {
+              "icon": "trash-2",
+              "text": "Delete Chat"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "textGenerator": [
+    {
+      "author": "/images/team/team-01.jpg",
+      "title": "You",
+      "desc": "What is a chat AI?",
+      "content": [
+        {
+          "img": "/images/icons/loader-one.gif",
+          "text": "Generating answers for you…",
+          "aiImg": "/images/team/avater.png",
+          "title": "ChatenAI",
+          "badge": "Bot",
+          "desc": "A chat AI, or chatAi, is a type of artificial intelligence designed to simulate conversation with human users, especially through natural language processing. These systems are often used in various applications, including customer service, virtual assistants, and online interactions."
+        }
+      ]
+    },
+    {
+      "author": "/images/team/team-01.jpg",
+      "title": "You",
+      "desc": "How do chatAI work?",
+      "content": [
+        {
+          "img": "/images/icons/loader-one.gif",
+          "text": "Generating answers for you…",
+          "aiImg": "/images/team/avater.png",
+          "title": "ChatenAI",
+          "badge": "Bot",
+          "desc": "ChatAi boost operational efficiency and bring cost savings to businesses while offering convenience and added services to internal employees and external customers. They allow companies to easily resolve many types of customer queries and issues while reducing the need for human interaction."
+        }
+      ]
+    },
+    {
+      "author": "/images/team/team-01.jpg",
+      "title": "You",
+      "desc": "How can i talk with chat AI?",
+      "content": [
+        {
+          "img": "/images/icons/loader-one.gif",
+          "text": "Generating answers for you…",
+          "aiImg": "/images/team/avater.png",
+          "title": "ChatenAI",
+          "badge": "Bot",
+          "desc": "You're already talking to a chat AI right now! You can ask me anything or discuss various topics. Just type your questions or statements, and I'll do my best to provide helpful and informative responses.",
+          "desc2": "If you have a specific topic in mind or if there's something you'd like to know or discuss, feel free to let me know!"
+        }
+      ]
+    },
+    {
+      "author": "/images/team/team-01.jpg",
+      "title": "You",
+      "desc": "Could I know Everything from chatenAI?",
+      "content": [
+        {
+          "img": "/images/icons/loader-one.gif",
+          "text": "Generating answers for you…",
+          "aiImg": "/images/team/avater.png",
+          "title": "ChatenAI",
+          "badge": "Bot",
+          "desc": "While ChatenAI is a powerful language model that has been trained on a diverse range of internet text, it doesn't know everything. It has limitations"
+        }
+      ]
+    }
+  ],
+  "imageGenerator": [
+    {
+      "author": "/images/team/team-01.jpg",
+      "title": "You",
+      "desc": "Generate an Enchanting Female Character Soaring Through the Skies with Aesthetic Appeal",
+      "content": [
+        {
+          "img": "/images/icons/loader-one.gif",
+          "aiImg": "/images/team/avater.png",
+          "text": "Generating answers for you…",
+          "scan": "Scanning the data...",
+          "title": "Certainly! Your visual representation has been created using the provided prompt:",
+          "caption": "Aesthetic --aspect-ratio 3:1 --quality 4 --size 580",
+          "generateImg": "/images/generator-img/photo-7.png",
+          "generateImg2": "/images/generator-img/photo-13.png"
+        }
+      ]
+    },
+    {
+      "author": "/images/team/team-01.jpg",
+      "title": "You",
+      "desc": "Crafting Culinary Magic Enchanting Female Chef in Action",
+      "content": [
+        {
+          "img": "/images/icons/loader-one.gif",
+          "aiImg": "/images/team/avater.png",
+          "text": "Generating answers for you…",
+          "scan": "Scanning the data...",
+          "title": "Sure! Your image has been generated with the given prompt:",
+          "caption": "Female Character --Aspect-Ratio 3:1 --Quality 4 --Size 580",
+          "generateImg": "/images/generator-img/photo-8.png",
+          "generateImg2": ""
+        }
+      ]
+    },
+    {
+      "author": "/images/team/team-01.jpg",
+      "title": "You",
+      "desc": "Create Image: Oceana Reverie - An Ethereal Dreamweaver by the Sea",
+      "content": [
+        {
+          "img": "/images/icons/loader-one.gif",
+          "aiImg": "/images/team/avater.png",
+          "text": "Generating answers for you…",
+          "scan": "Scanning the data...",
+          "title": "Sure! Your image has been generated with the given prompt:",
+          "caption": "An Ethereal Dreamweaver By The Sea 3:1 --Q 4 --S 580",
+          "generateImg": "/images/generator-img/photo-9.png",
+          "generateImg2": ""
+        }
+      ]
+    },
+    {
+      "author": "/images/team/team-01.jpg",
+      "title": "You",
+      "desc": "Create Image, A Radiant Female Character in a Blooming Rose Garden",
+      "content": [
+        {
+          "img": "/images/icons/loader-one.gif",
+          "aiImg": "/images/team/avater.png",
+          "text": "Generating answers for you…",
+          "scan": "Scanning the data...",
+          "title": "Sure! Your image has been generated with the given prompt:",
+          "caption": "A Radiant Female Character In A Blooming Rose Garden --Ar 3:1 --Q 4 --S 580",
+          "generateImg": "/images/generator-img/photo-10.png",
+          "generateImg2": ""
+        }
+      ]
+    }
+  ],
+  "emailGenerator": [
+    {
+      "author": "/images/team/team-01.jpg",
+      "title": "You",
+      "desc": "Write an email to your Office boss for 2 days off",
+      "content": [
+        {
+          "aiImg": "/images/team/avater.png",
+          "subject": "Subject: Request for Two-Day Leave",
+          "dear": "Dear [Boss's Name],",
+          "desc": "I hope this email finds you well. I am writing to formally request a two-day leave from work on [start date] to [end date]. The reason for my request is [mention the reason briefly, such as personal commitments, family matters, or any other relevant reason].",
+          "desc2": "I have ensured that all my current tasks and responsibilities are up to date, and I have briefed [colleague's name or team] about the status of my ongoing projects. I am committed to ensuring a smooth transition during my absence and will make myself available for any necessary handovers or additional information as needed.",
+          "desc3": "I understand the importance of my role in the team and will do my best to minimize any disruption caused by my temporary absence. I am confident that my colleagues will be able to handle any urgent matters in my absence, and I will ensure that I am reachable in case of any critical issues that may arise.",
+          "desc4": "Thank you for considering my request. I look forward to your approval and will be available to discuss any further details if necessary.",
+          "wish": "Best regards,",
+          "name": "[Your Full Name]",
+          "generateImg": "/images/generator-img/photo-7.png",
+          "generateImg2": "/images/generator-img/photo-13.png"
+        }
+      ]
+    },
+    {
+      "author": "/images/team/team-01.jpg",
+      "title": "You",
+      "desc": "Write an email to your Teacher for Study Tour",
+      "content": [
+        {
+          "aiImg": "/images/team/avater.png",
+          "subject": "Subject: Request for Participation in Study Tour",
+          "dear": "Dear [Teacher's Name],",
+          "desc": "I trust this email finds you in good health. My name is [Your Name], and I am a student in your [Class/Subject] class. I am writing to express my interest in and request permission to participate in the upcoming study tour that you mentioned during our recent class.",
+          "desc2": "I believe that the study tour would be a valuable opportunity for practical learning and exposure to real-world applications of the concepts we have been studying in class. The prospect of gaining firsthand experience in [mention specific areas or topics of the tour] is particularly exciting, and I am eager to enhance my understanding through this practical experience.",
+          "desc3": "If there are specific forms or procedures I need to follow to formally apply for participation, please guide me accordingly. Additionally, I am willing to provide any necessary information or documentation to support my request.",
+          "desc4": "Thank you for considering my request. I look forward to your guidance on the next steps and appreciate the opportunity to be part of this enriching educational experience.",
+          "wish": "Best regards,",
+          "name": "[Your Full Name]",
+          "generateImg": "/images/generator-img/photo-7.png",
+          "generateImg2": "/images/generator-img/photo-13.png"
+        }
+      ]
+    }
+  ],
+  "videoGenerator": [
+    {
+      "author": "/images/team/team-01.jpg",
+      "img": "/images/generator-img/photo-11.png",
+      "title": "You",
+      "desc": "Generate a conversational avatar for the provided script.",
+      "desc2": "Create an engaging video now using our cutting-edge Talking Avatar Video Creator! This powerful tool lets you effortlessly craft captivating videos, featuring a virtual spokesperson delivering your personalized message with a natural touch. Whether you're marketing a product, sharing business updates, or conducting training sessions, our innovative AI technology simplifies the process, ensuring polished videos that captivate audiences and drive impactful results. Take command, try it out today, and witness the transformative difference firsthand."
+    },
+    {
+      "content": [
+        {
+          "img": "/images/icons/loader-one.gif",
+          "aiImg": "/images/team/avater.png",
+          "text": "Generating answers for you…",
+          "scan": "Scanning the data...",
+          "desc": "In alignment with the gender identified in the uploaded image, the video has been automatically generated with a male voice. Nevertheless, you retain the flexibility to tailor your video by choosing from the provided customization options below:",
+          "caption": "Unleash The Power Of Persuasion! 3:1 --Q 4 --S 580",
+          "generateImg": "",
+          "generateImg2": "",
+          "videoImg": "/images/generator-img/video-photo-1.png"
+        }
+      ]
+    },
+    {
+      "author": "/images/team/team-01.jpg",
+      "img": "/images/generator-img/photo-14.png",
+      "title": "You",
+      "desc": "Oh Nice! That's Awesome Video.",
+      "desc2": "Create a Stunning Video Featuring Our Elegant Female Character. Here is the character's photo"
+    },
+    {
+      "content": [
+        {
+          "img": "/images/icons/loader-one.gif",
+          "aiImg": "/images/team/avater.png",
+          "text": "Generating answers for you…",
+          "scan": "Scanning the data...",
+          "desc": "In alignment with the gender identified in the uploaded image, the video has been automatically generated with a male voice. Nevertheless, you retain the flexibility to tailor your video by choosing from the provided customization options below:",
+          "caption": "Unleash The Power Of Persuasion! 3:1 --Q 4 --S 580",
+          "generateImg": "",
+          "generateImg2": "",
+          "videoImg": "/images/generator-img/video-photo-2.png"
+        }
+      ]
+    }
+  ],
+  "imageEditor": [
+    {
+      "author": "/images/team/team-01.jpg",
+      "title": "You",
+      "desc": "Enhance this photograph and must have eye Glass.",
+      "img": "/images/generator-img/photo-1.png"
+    },
+    {
+      "content": [
+        {
+          "img": "/images/icons/loader-one.gif",
+          "aiImg": "/images/team/avater.png",
+          "text": "Generating answers for you…",
+          "scan": "Scanning the data...",
+          "title": "Sure, I autonomously fine-tune colors, eliminate imperfections, and amplify details also have Glass. Witness the outcome.:",
+          "generateImg": "/images/generator-img/photo-2.png",
+          "isBorder": false
+        }
+      ]
+    },
+    {
+      "content": [
+        {
+          "img": "/images/icons/loader-one.gif",
+          "aiImg": "/images/team/avater.png",
+          "text": "Generating answers for you…",
+          "scan": "Scanning the data...",
+          "title": "Sure, Here the result:",
+          "generateImg": "/images/generator-img/photo-3.png",
+          "isBorder": false
+        }
+      ]
+    },
+    {
+      "author": "/images/team/team-01.jpg",
+      "title": "You",
+      "desc": "Please Remove the background and Adjust Blue Color for A Blue Colored Frame Image",
+      "content": [
+        {
+          "img": "/images/icons/loader-one.gif",
+          "aiImg": "/images/team/avater.png",
+          "text": "Generating answers for you…",
+          "scan": "Scanning the data...",
+          "title": "Sure, Here the result:",
+          "generateImg": "/images/generator-img/photo-4.png",
+          "isBorder": true
+        }
+      ]
+    },
+    {
+      "author": "/images/team/team-01.jpg",
+      "title": "You",
+      "desc": "Oh! That's Awesome..",
+      "desc2": "Please make a Facebook Cover Frame with this Image For Poster Edit",
+      "content": [
+        {
+          "img": "/images/icons/loader-one.gif",
+          "aiImg": "/images/team/avater.png",
+          "text": "Generating answers for you…",
+          "scan": "Scanning the data...",
+          "title": "Sure, Here the result:",
+          "generateImg": "/images/generator-img/photo-5.png",
+          "isBorder": true
+        }
+      ]
+    },
+    {
+      "author": "/images/team/team-01.jpg",
+      "title": "You",
+      "desc": "Please Retouch the Image and write this title on the Left NEVER GIVE UP",
+      "content": [
+        {
+          "img": "/images/icons/loader-one.gif",
+          "aiImg": "/images/team/avater.png",
+          "text": "Generating answers for you…",
+          "scan": "Scanning the data...",
+          "title": "Sure, Here the result:",
+          "generateImg": "/images/generator-img/photo-5.png",
+          "isBorder": true
+        }
+      ]
+    }
+  ]
+}

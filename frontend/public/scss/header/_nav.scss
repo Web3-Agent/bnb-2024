@@ -1,0 +1,189 @@
+/*--------------------------
+    Navigation Styles 
+----------------------------*/
+.mainmenu-nav {
+    .mainmenu {
+        display: flex;
+        margin: 0;
+        padding: 0;
+        > li {
+            > a {
+                color: var(--color-heading);
+                font-size: 16px;
+                font-weight: 500;
+                padding: 0 17px;
+                display: block;
+                height: 80px;
+                line-height: 80px;
+                transition: 0.3s;
+                @media #{$lg-layout} {
+                    padding: 0 10px;
+                }
+                @media #{$md-layout} {
+                    padding: 0 12px;
+                }
+                &:hover,
+                &.active {
+                    color: #FF3BD4 !important;
+                }
+            }
+            &.current {
+                > a {
+                    color: #FF3BD4 !important;
+                }
+            }
+        } 
+        li {
+            margin-top: 0;
+            margin-bottom: 0;
+            position: relative;
+            &.has-droupdown {
+                .submenu {
+                    min-width: 260px;
+                    height: auto;
+                    position: absolute;
+                    top: 90%;
+                    left: 0;
+                    z-index: 90;
+                    opacity: 0;
+                    visibility: hidden;
+                    text-align: left;
+                    padding: 12px 0;
+                    transition: 0.3s;
+                    border-radius: 0 0 10px 10px;
+                    background-color: var(--color-blackest);
+                    box-shadow: var(--shadow-lighter);
+                    li {
+                        a {
+                            font-weight: 500;
+                            padding: 5px 20px;
+                            font-size: 14px;
+                            display: block;
+                            color: var(--color-heading);
+                            margin: 0 10px;
+                            border-radius: 3px;
+                            @extend %transition;
+                            &:hover {
+                                color: #FF3BD4 !important;
+                                background: var(--color-darker);
+                            }
+                            &.active {
+                                color: #FF3BD4 !important;
+                                background: var(--color-darker);
+                            }
+                        }
+                    }
+                }
+    
+                &:hover {
+                    .submenu {
+                        opacity: 1;
+                        visibility: visible;
+                        top: 100%;
+                    }
+                }
+            }
+
+            &.with-megamenu { 
+                position: static;
+                .rainbow-megamenu {
+                    position: absolute;
+                    transition: 0.3s;
+                    top: 90%;
+                    width: 100%;
+                    left: 0;
+                    right: 0;
+                    padding: 0 7px;
+                    visibility: hidden;
+                    opacity: 0;
+                    &.right-align{
+                        right: 0;
+                        left: unset;
+                    }
+                    .wrapper {
+                        border-radius: 0 0 10px 10px;
+                        background-color: var(--color-blackest);
+                        box-shadow: var(--shadow-lighter);
+                        border: 1px solid var(--color-border);
+                        border-top: none;
+                        .rbt-short-title {
+                            padding: 15px 25px;
+                            text-align: left;
+                            margin-bottom: 0;
+                            border-bottom: 1px solid var(--color-border);
+                        }
+
+                        .mega-menu-item {
+                            padding: 15px 10px;
+                            border-right: 1px solid var(--color-extra04);
+                            height: 100%;
+
+                            li {
+                                a {
+                                    font-weight: 500;
+                                    padding: 5px 14px;
+                                    font-size: 15px;
+                                    display: block;
+                                    color: var(--color-heading);
+                                    margin: 0 10px;
+                                    border-radius: 4px;
+                                    transition: 0.3s;
+                                    display: flex;
+                                    align-items: center;
+
+                                    .rainbow-badge-card {
+                                        margin-left: 10px;
+                                    }
+
+                                    &:hover ,
+                                    &.active {
+                                        color: #FF3BD4 !important;
+                                        background: var(--color-darker);
+                                    }
+                                }
+                            }
+                        }
+                    }
+                    &.with-mega-item-2 {
+                        width: 600px;
+                        margin: inherit;
+                    }
+                }
+
+                .single-mega-item {
+                    &:last-child {
+                        .mega-menu-item {
+                            border-right: 0 none;
+                        }
+                    }
+                }
+
+                &:hover {
+                    .rainbow-megamenu {
+                        opacity: 1;
+                        visibility: visible;
+                        top: 100%;
+                    }
+                }
+            }
+
+        }
+    }
+}
+
+.one-menu{
+    .mainmenu li.with-megamenu .rainbow-megamenu .wrapper{
+        padding: 15px 20px;
+    }
+}
+
+.rbt-short-title {
+    font-size: 12px;
+    padding-bottom: 14px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    opacity: 0.5;
+    margin-bottom: 6px;
+    border-bottom: 1px solid var(--color-border);
+}

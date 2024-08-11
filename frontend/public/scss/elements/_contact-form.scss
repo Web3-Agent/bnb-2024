@@ -1,0 +1,45 @@
+.rainbow-comment-form {
+    .section-title {
+        span {
+            &.subtitle {
+                font-weight: 600;
+                letter-spacing: 0.5px;
+                line-height: 18px;
+                font-size: 16px;
+                border-radius: 4px;
+                margin-bottom: 12px;
+            }
+        }
+
+        .title {
+            font-size: 50px;
+            font-weight: 600;
+            line-height: 62px;
+            margin-bottom: 20px;
+            color: var(--color-white);
+        }
+    }
+}
+
+iframe {
+    border-radius: 10px;
+}
+
+.rnform-group {
+    margin-bottom: 20px;
+    input {
+        border: 2px solid var(--color-border);
+        border-radius: 4px;
+        height: 50px;
+        font-size: 16px;
+    }
+}
+
+.rainbow-comment-form .inner .rnform-group textarea {
+    min-height: 193px;
+    border: 2px solid var(--color-border);
+    border-radius: 4px;
+    resize: none;
+    padding: 15px;
+    font-size: 16px;
+}

@@ -1,0 +1,165 @@
+{
+  "navDashboardItem": [
+    {
+      "link": "/profile-details",
+      "text": "Profile"
+    },
+    {
+      "link": "/notification",
+      "text": "Notification"
+    },
+    {
+      "link": "/portfolio",
+      "text": "Portfolio"
+    },
+    {
+      "link": "/chat-export",
+      "text": "Chat Export"
+    },
+    {
+      "link": "/appearance",
+      "text": "Appearance"
+    },
+    {
+      "link": "/plans-billing",
+      "text": "Plans and Billing"
+    },
+    {
+      "link": "/sessions",
+      "text": "Sessions"
+    },
+    {
+      "link": "/application",
+      "text": "Application"
+    },
+    {
+      "link": "/release-notes",
+      "text": "Release notes"
+    },
+    {
+      "link": "/help",
+      "text": "Help & FAQs"
+    }
+  ],
+  "smallNavItem": [
+    {
+      "link": "/text-generator",
+      "isDisable": false,
+      "type": "default",
+      "img": "/images/generator-icon/text.png",
+      "text": "Text Generator",
+      "badge": "",
+      "icon": ""
+    },
+    {
+      "link": "/image-generator",
+      "isDisable": false,
+      "type": "default",
+      "img": "/images/generator-icon/photo.png",
+      "text": "Image Generator",
+      "badge": "Hot",
+      "icon": ""
+    },
+    {
+      "link": "/code-generator",
+      "isDisable": false,
+      "type": "default",
+      "img": "/images/generator-icon/code-editor.png",
+      "text": "Code Generator",
+      "badge": "",
+      "icon": ""
+    },
+    {
+      "link": "/image-editor",
+      "isDisable": false,
+      "type": "default",
+      "img": "/images/generator-icon/photo-editor.png",
+      "text": "Image Editor",
+      "badge": "",
+      "icon": ""
+    },
+    {
+      "link": "/vedio-generator",
+      "isDisable": false,
+      "type": "default",
+      "img": "/images/generator-icon/video-camera.png",
+      "text": "Video Generator",
+      "badge": "",
+      "icon": ""
+    },
+    {
+      "link": "/email-generator",
+      "isDisable": false,
+      "type": "default",
+      "img": "/images/generator-icon/email.png",
+      "text": "Email Generator",
+      "badge": "",
+      "icon": ""
+    },
+    {
+      "link": "#",
+      "isDisable": true,
+      "type": "default",
+      "img": "/images/generator-icon/website-design.png",
+      "text": "Website Generator",
+      "badge": "Coming",
+      "icon": ""
+    },
+    {
+      "link": "/profile-details",
+      "isDisable": false,
+      "type": "setting",
+      "text": "Profile Details",
+      "badge": "",
+      "icon": "user"
+    },
+    {
+      "link": "/notification",
+      "isDisable": false,
+      "type": "setting",
+      "text": "Notification",
+      "badge": "",
+      "icon": "shopping-bag"
+    },
+    {
+      "link": "/chat-export",
+      "isDisable": false,
+      "type": "setting",
+      "text": "Chat Export",
+      "badge": "",
+      "icon": "users"
+    },
+    {
+      "link": "/appearance",
+      "isDisable": false,
+      "type": "setting",
+      "text": "Apperance",
+      "badge": "",
+      "icon": "home"
+    },
+    {
+      "link": "/plans-billing",
+      "isDisable": false,
+      "type": "setting",
+      "text": "Plans and Billing",
+      "badge": "",
+      "icon": "briefcase"
+    },
+    {
+      "link": "/sessions",
+      "isDisable": false,
+      "type": "setting",
+      "text": "Sessions",
+      "badge": "",
+      "icon": "users"
+    },
+    {
+      "link": "/application",
+      "isDisable": false,
+      "type": "setting",
+      "text": "Application",
+      "badge": "",
+      "icon": "list"
+    }
+  ]
+}

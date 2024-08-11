@@ -1,0 +1,49 @@
+.resourcesContainer {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  /* background-color: #1e1e1e; */
+  padding: 40px;
+  border-radius: 10px;
+  color: #fff;
+  justify-content: center;
+}
+
+.resourcesSection {
+  width: 100%;
+  margin: -20px 0;
+  color: #fff;
+}
+
+.resourcesSection h2 {
+  font-size: 2.2em;
+  margin-bottom: 20px;
+}
+
+.resourcesGrid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.AppFooter {
+  margin-top: 40px;
+  text-align: center;
+}
+
+.AppFooter button {
+  margin: 10px;
+  padding: 10px 20px;
+  border: none;
+  background: linear-gradient(90deg, #12B5DE -30%, #FF3BD4 30%, #7130C3 90%);
+  color: white;
+  cursor: pointer;
+  border-radius: 5px;
+  font-size: 1em;
+  /* transition: background 0.3s; */
+}
+
+.AppFooter button:hover {
+  background-color: #7130C3;
+  
+}

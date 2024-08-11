@@ -1,0 +1,80 @@
+{
+  "contract": [
+    {
+      "category":"NFT",
+      "title": "Soulbound NFT",
+      "desc": "Soulbound NFT with owner minting.",
+      "poweredBy" : "CookBook",
+      "icon": "package",
+      "delay": 100
+    },
+    {
+      "category" : "ERC20",
+      "title": "Capped ERC20 Token",
+      "desc": "Token that allows the owner to mint tokens up to the cap....",
+      "poweredBy" : "OpenZeppelin",
+      "icon": "package",
+      "delay": 100
+    },
+    {
+      "category" : "Finance",
+      "title": "Royalty Splitter",
+      "desc": "This contract allows payments to be split among a group of accounts....Finance",
+      "poweredBy" : "OpenZeppelin",
+      "icon": "package",
+      "delay": 100
+    },
+    {
+      "category" : "Sale",
+      "title": "Simple ERC721 NFT Sale",
+      "desc": "Simple ERC721 NFT with a built in sale.",
+      "poweredBy" : "CookBook",
+      "icon": "package",
+      "delay": 100
+    },
+    {
+      "category":"NFT",
+      "title": "Soulbound NFT",
+      "desc": "Soulbound NFT with owner minting.",
+      "poweredBy" : "CookBook",
+      "icon": "package",
+      "delay": 100
+    },
+    {
+      "category" : "ERC20",
+      "title": "Capped ERC20 Token",
+      "desc": "Token that allows the owner to mint tokens up to the cap....Finance",
+      "poweredBy" : "OpenZeppelin",
+      "icon": "package",
+      "delay": 100
+    },
+    {
+      "category" : "Finance",
+      "title": "Royalty Splitter",
+      "desc": "This contract allows payments to be split among a group of accounts....Finance",
+      "poweredBy" : "OpenZeppelin",
+      "icon": "package",
+      "delay": 100
+    },
+    {
+      "category" : "Sale",
+      "title": "Simple ERC721 NFT Sale",
+      "desc": "Simple ERC721 NFT with a built in sale.",
+      "poweredBy" : "CookBook",
+      "icon": "package",
+      "delay": 100
+    },
+    {
+      "category" : "ERC1155",
+      "title": "Simple ERC1155 NFT Sale",
+      "desc": "Simple ERC1155 NFT with a built in sale.",
+      "poweredBy" : "CookBook",
+      "icon": "package",
+      "delay": 100
+    }
+  ],
+  
+  "categories" : ["NFT", "ERC20", "Sale", "Finance", "ERC1155", "EIP4907", "NFT", "ERC20", "Sale", "Finance", "ERC1155", "EIP4907", "NFT", "Finance","sale","NFT"]
+ 
+ 
+}

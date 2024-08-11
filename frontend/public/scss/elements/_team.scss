@@ -1,0 +1,261 @@
+/*----------------------
+    Team Style  
+-------------------------*/
+.rainbow-box-card,
+.team-style-default {
+    margin-top: 75px;
+    .inner {
+        background: linear-gradient(180deg,var(--color-lessdark) 20%,rgba(19,19,19,.4));
+        -webkit-backdrop-filter: blur(4px) opacity(.95);
+        backdrop-filter: blur(4px) opacity(.95);
+        border-radius: var(--radius-big);
+
+        .thumbnail {
+            max-width: 150px;
+            max-height: 150px;
+            border-radius: 100%;
+            border: 6px solid var(--color-lessdark);
+            top: -75px;
+            position: absolute;
+            left: 50%;
+            transform: translateX(-50%);
+            min-width: 150px;
+            min-height: 150px;
+            overflow: hidden;
+            img {
+                border-radius: 100%;
+            }
+        }
+
+        .content {
+            text-align: center;
+            padding: 20px;
+            padding-top: 85px;
+            padding-bottom: 35px;
+
+            .title {
+                font-size: 34px;
+                line-height: 1.4;
+                font-weight: 700;
+                margin-bottom: 6px;
+            }
+            .subtitle {
+                font-size: 20px;
+                line-height: 1.4;
+                margin-bottom: 15px;
+                display: inline-block;
+            }
+            .team-form {
+                display: block;
+                font-size: 14px;
+                margin-bottom: 12px;
+                letter-spacing: 0.6px;
+                font-style: italic;
+
+                img {
+                    padding-right: 10px;
+                    max-height: 18px;
+                }
+            }
+            .description {
+                margin-bottom: 0;
+                padding: 0 5%;
+            }
+        }
+
+        .social-icon {
+            li {
+                a {
+                    color: var(--color-body);
+                }
+            }
+        }
+    }
+
+    &.border-gradient {
+        .thumbnail {
+            background: linear-gradient(to right, var(--color-primary-gradient-start), var(--color-primary-gradient-end));
+            padding: 5px;
+            border: 0 none;
+            animation: rotateCircle 2s linear infinite;
+        }
+    }
+
+    &.border-gradient-secondary {
+        .thumbnail {
+            background: linear-gradient(to right, var(--color-secondary-gradient-start), var(--color-secondary-gradient-end));
+            padding: 5px;
+            border: 0 none;
+            animation: rotateCircle 2s linear infinite;
+        }
+    }
+
+    &.border-gradient-tertiary {
+        .thumbnail {
+            background: linear-gradient(to right, var(--color-tertiary-gradient-start), var(--color-tertiary-gradient-end));
+            padding: 5px;
+            border: 0 none;
+            animation: rotateCircle 2s linear infinite;
+        }
+    }
+
+    &.style-two {
+        margin-top: 30px;
+        .inner {
+            padding-top: 35px;
+            .thumbnail {
+                top: 0;
+                position: static;
+                left: inherit;
+                transform: none;
+                min-width: 150px;
+                min-height: 150px;
+                margin: 0 auto;
+            }
+            .content {
+                padding-top: 10px;
+            }
+        }
+    }
+}
+
+/*---------------------
+    Team Style Two  
+-----------------------*/
+.team-style-two {
+    .inner {
+        .thumbnail {
+            img {
+                width: 100%;
+                border-radius: var(--radius);
+            }
+        }
+        .content {
+            padding-top: 20px;
+            .title {
+                font-size: 28px;
+                line-height: 1.4;
+                font-weight: 500;
+                margin-bottom: 0;
+
+            }
+            .subtitle {
+                font-size: 18px;
+                line-height: 1.4;
+                display: inline-block;
+                margin-top: 4px;
+                margin-bottom: 0;
+                opacity: 0;
+                transform: translateX(30px);
+                transition: transform .45s cubic-bezier(.16,.32,.26,.92),opacity .45s ease-out;
+                transition-delay: .15s;
+            }
+            .team-form {
+                display: block;
+                font-size: 14px;
+                letter-spacing: 0.6px;
+                font-style: italic;
+                margin-top: 11px;
+                img {
+                    padding-right: 10px;
+                    max-height: 18px;
+                }
+            }
+        }
+    }
+
+    &:hover {
+        .inner {
+            .content {
+                
+
+                .subtitle {
+                    opacity: 1;
+                    transform: none;
+                }
+
+            }
+        }
+    }
+}
+
+/*---------------------
+    Team Style Three  
+-----------------------*/
+.team-style-three {
+    .inner {
+        position: relative;
+        .thumbnail {
+            img {
+                width: 100%;
+                border-radius: var(--radius);
+            }
+        }
+        .content {
+            position: absolute;
+            bottom: 0;
+            padding: 20px;
+            width: 100%;
+            transition: all 0.3s;
+            opacity: 0;
+
+            .team-info {
+                padding: 20px;
+                background-color: rgba(58,58,58,0.85);
+                border-radius: var(--radius-small);
+            }
+
+            .title {
+                font-size: 17px;
+                line-height: 25px;
+                color: var(--color-heading);
+                margin-bottom: 4px;
+            }
+            .subtitle {
+                font-size: 16px;
+                line-height: 25px;
+                margin-bottom: 4px;
+            }
+            .team-form {
+                display: block;
+                font-style: italic;
+                font-size: 14px;
+                color: #ADADAD;
+                letter-spacing: 0.5px;
+            }
+        }
+    }
+
+    &:hover {
+        .inner {
+            .content {
+                opacity: 1;
+            }
+        }
+    }
+}
+
+
+
+@keyframes rotateCircle {
+    0% {
+      transform: rotate(0);
+    }
+  
+    25% {
+      transform: rotate(90deg);
+    }
+  
+    50% {
+      transform: rotate(180deg);
+    }
+  
+    75% {
+      transform: rotate(270deg);
+    }
+  
+    100% {
+      transform: rotate(360deg);
+    }
+  }
+  

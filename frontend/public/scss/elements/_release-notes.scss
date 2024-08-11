@@ -1,0 +1,124 @@
+/*============ changelog css ===========*/
+.changelog_inner{
+    padding-right: 30px;
+    padding-bottom: 100px;
+}
+.changelog_info{
+    padding-top: 15px;
+    .version_info{
+        margin-right: 15px;
+        position: relative;
+        height: 100%;
+    }
+    .c_version{
+        flex: 1;
+        background: var(--color-primary-alt);
+        text-align: center;
+        font-size: 14px;
+        font-weight: 400;
+        height: 26px;
+        line-height: 27px;
+        border-radius: 3px;
+        color: #fff;
+        min-width: 50px;
+        max-width: 60px;
+        display: block;
+        margin: 0 auto;
+        z-index: 2;
+        position: relative;
+    }
+    .changelog_date{
+        display: flex;
+        flex-direction: row-reverse;
+        text-align: right;
+        .c_date{
+            h6{
+                font-size: 20px;
+                font-weight: 700;
+                margin-bottom: 0;
+            }
+            p{
+                font-size: 14px;
+                margin-bottom: 0;
+            }
+        }
+    }
+    .line {
+        height: calc(100% + 15px);
+        width: 2px;
+        background: var(--color-border);
+        position: absolute;
+        left: 50%;
+        top: 0;
+        transform: translateX(-50%);
+        z-index: 1;
+    }
+    &:last-child{
+        .line{
+            height: 100%;
+        }
+        .changelog_content{
+            padding-bottom: 0;
+        }
+    }
+}
+.changelog_content{
+    padding-bottom: 60px;
+    p{
+        display: flex;
+        margin-bottom: 15px;
+        font-size: 14px;
+    }
+    span{
+        font-weight: 400;
+        font-size: 10px;
+        color: var(--color-white);
+        padding: 0 10px;
+        text-transform: uppercase;
+        min-width: 110px;
+        display: inline-block;
+        text-align: center;
+        line-height: 23px;
+        border-radius: 3px;
+        margin-right: 20px;
+        height: 22px;
+        flex: 0;
+        letter-spacing: .8px;
+        &.improve{
+            background: var(--color-info);
+        }
+        &.new{
+            background: var(--color-success);
+        }
+        &.update{
+            background: var(--color-warning);
+        }
+        &.fixed{
+            background: var(--color-danger);
+        }
+    }
+    .download-links {
+        border-top: 1px dotted rgba(51,51,51,0.2);
+    }
+    .changelog_btn{
+        font-size: 14px;
+        color: #6b707f;
+        font-weight: 500;
+        margin-top: 12px;
+        display: inline-block;
+        opacity: .5;
+        i{
+            margin-right: 10px;
+        }
+        &:hover{
+            color: var(--color-primary);
+        }
+        & + .changelog_btn{
+            margin-left: 28px;
+        }
+    }
+    &:hover .changelog_btn{
+        opacity: 1;
+    }
+}
+

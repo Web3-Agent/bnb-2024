@@ -1,0 +1,134 @@
+/*-------------------------
+    Testimonial Styles  
+--------------------------*/
+
+.card-style-default {
+    &.testimonial-style-one {
+        .inner {
+            .thumbnail {
+                overflow: visible;
+                &::after {
+                    position: absolute;
+                    content: "”";
+                    width: 40px;
+                    height: 40px;
+                    border-radius: 100%;
+                    background: var(--color-blackest);
+                    right: 0;
+                    top: 0;
+                    color: #fff;
+                    z-index: 2;
+                    text-align: center;
+                    line-height: 58px;
+                    font-size: 39px;
+                }
+            }
+            .content {
+                .description {
+                    margin-bottom: 14px;
+                    font-size: var(--font-size-b2) !important;
+                }
+                .title {
+                    font-size: 20px;
+                    font-weight: 500;
+                    margin-bottom: 2px;
+                    letter-spacing: 0.5px;
+                }
+                .subtitle {
+                    font-size: 16px;
+                    line-height: 1.2;
+                    margin-bottom: 0;
+                    letter-spacing: 0.5px;
+                }
+            }
+        } 
+        &.style-two {
+            .inner {
+                .thumbnail {
+                    position: relative;
+                }
+
+                .description {
+                    margin-bottom: 19px;
+                    margin-top: 20px;
+                }
+            }
+        }
+    }
+}
+
+
+
+/*-----------------------------
+    Testimonial Style Two  
+-------------------------------*/
+
+.testimonial-style-two {
+    .content {
+        position: relative;
+        z-index: 2;
+        &::after {
+            position: absolute;
+            content: "“";
+            left: -20px;
+            color: var(--color-lessdark);
+            text-align: center;
+            font-size: 320px;
+            opacity: 0.7;
+            line-height: 50px;
+            top: 52px;
+            z-index: -1;
+        }
+      
+        .form {
+            display: block;
+            font-size: 18px;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            margin-bottom: 20px;
+        }
+
+        .description {
+            line-height: 1.5;
+            margin-bottom: 30px;
+            font-size: 32px;
+
+            @media #{$lg-layout} {
+                margin-bottom: 25px;
+                font-size: 24px;
+            }
+            @media #{$md-layout} {
+                font-size: 24px;
+            }
+
+            @media #{$sm-layout} {
+                font-size: 24px;
+            }
+        }
+        .client-info {
+            .title {
+                font-size: 22px;
+                font-weight: 500;
+                margin-bottom: 8px;
+            }
+            .subtitle {
+                font-size: 16px;
+                margin-bottom: 0;
+                font-weight: 400;
+                letter-spacing: 0.5px;
+                color: var(--color-body);
+                font-style: italic;
+            }
+        }
+    }
+    .thumbnail {
+        background: linear-gradient(95deg, var(--color-primary) 15%, var(--color-tertiary) 45%, var(--color-primary) 75%, var(--color-secondary) 100%) 98% / 200% 100%;
+        border-radius: 100%;
+        padding: 10px;
+        img {
+            border-radius: 100%;
+        }
+    }
+}
+
+

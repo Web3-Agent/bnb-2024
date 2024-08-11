@@ -1,0 +1,108 @@
+{
+  "footer": [
+    {
+      "desc": "2000+ Our clients are subscribe Around the World",
+      "title": "Newsletter",
+      "services": [
+        {
+          "title": "Services",
+          "top": true,
+          "innerItem": [
+            {
+              "text": "Testiminial",
+              "link": "#"
+            },
+            {
+              "text": "Company",
+              "link": "#"
+            },
+            {
+              "text": "Marketing",
+              "link": "#"
+            },
+            {
+              "text": "Startup",
+              "link": "#"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "title": "Products",
+          "top": false,
+          "innerItem": [
+            {
+              "text": "About",
+              "link": "#"
+            },
+            {
+              "text": "Portfolio",
+              "link": "#"
+            },
+            {
+              "text": "Blog",
+              "link": "/blog-list"
+            },
+            {
+              "text": "Contact",
+              "link": "#"
+            },
+            {
+              "text": "Service",
+              "link": "#"
+            }
+          ]
+        }
+      ],
+      "company": [
+        {
+          "title": "Company",
+          "top": true,
+          "innerItem": [
+            {
+              "text": "Corporate",
+              "link": "#"
+            },
+            {
+              "text": "Portfolio",
+              "link": "#"
+            },
+            {
+              "text": "SEO Agency",
+              "link": "#"
+            },
+            {
+              "text": "Web Agency",
+              "link": "#"
+            }
+          ]
+        }
+      ],
+      "solutions": [
+        {
+          "title": "Solutions",
+          "top": false,
+          "innerItem": [
+            {
+              "text": "Gallery",
+              "link": "#"
+            },
+            {
+              "text": "Testimonial",
+              "link": "#"
+            },
+            {
+              "text": "Contact",
+              "link": "/blog-list"
+            },
+            {
+              "text": "Service",
+              "link": "#"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "data": [
+    {
+      "msg": "profile-details",
+      "type": "Profile"
+    },
+    {
+      "msg": "notification",
+      "type": "Notification"
+    },
+    {
+      "msg": "portfolio",
+      "type": "Portfolio"
+    },
+    {
+      "msg": "chat-export",
+      "type": "Chat Export"
+    },
+    {
+      "msg": "appearance",
+      "type": "Appearance"
+    },
+    {
+      "msg": "plans-billing",
+      "type": "Plans and Billing"
+    },
+    {
+      "msg": "sessions",
+      "type": "Sessions"
+    },
+    {
+      "msg": "application",
+      "type": "Application"
+    },
+    {
+      "msg": "release-notes",
+      "type": "Release notes"
+    },
+    {
+      "msg": "help",
+      "type": "Help & FAQs"
+    }
+  ]
+}

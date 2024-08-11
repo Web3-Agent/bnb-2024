@@ -1,0 +1,41 @@
+.crypto-table {
+  width: 100%;
+  margin: 20px auto;
+  border-collapse: collapse;
+  color: #fff;
+  background-color: #1a1a1a;
+}
+
+.crypto-table table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.crypto-table th, .crypto-table td {
+  border: 1px solid #333;
+  padding: 8px;
+  text-align: left;
+}
+
+.crypto-table th {
+  background-color: #333;
+  color: white;
+}
+
+.crypto-table tr:nth-child(even) {
+  background-color: #2a2a2a;
+}
+
+.crypto-table tr:hover {
+  background-color: #3a3a3a;
+}
+
+.crypto-table td img {
+  margin-right: 8px;
+  vertical-align: middle;
+}
+
+.crypto-table td div {
+  display: inline-block;
+  vertical-align: middle;
+}
